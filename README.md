@@ -1,0 +1,1 @@
+* install ffmpeg and pydub packages before running
